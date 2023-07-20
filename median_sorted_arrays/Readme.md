@@ -28,3 +28,5 @@ nums2.length == n
 0 <= n <= 1000
 1 <= m + n <= 2000
 -106 <= nums1[i], nums2[i] <= 106
+
+![image](https://github.com/Latrodect/Leetcode-Solutions/assets/58200573/8240eb4b-ed91-473f-9227-89ae7531b3e4)
